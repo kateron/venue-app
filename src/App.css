@@ -16,6 +16,7 @@
 }
 .venue-name{
   color: rgba(38,113,127, 1);
+  cursor: pointer;
 }
 
 .venue-type{
